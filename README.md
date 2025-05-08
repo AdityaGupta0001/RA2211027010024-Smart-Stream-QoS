@@ -1,4 +1,4 @@
-# Real-Time QoS Optimization System for Live Streaming Platforms - RA2211027010024
+# Real-Time QoS Optimization System for Live Streaming Platforms
 
 ## Overview
 This system addresses Quality of Service (QoS) challenges in live video game streaming platforms (Twitch/YouTube Gaming) by implementing a data-driven solution that combines network analytics, machine learning, and sentiment analysis. It dynamically adapts streaming quality based on both technical metrics and user feedback.
